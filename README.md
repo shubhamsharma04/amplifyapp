@@ -1,1 +1,1 @@
-# amplifyapp Trigger whatever
+# amplifyapp Trigger whatever yup
